@@ -1,0 +1,134 @@
+Added Component: Designator=J?(TBP04R1-500-08BE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TBP04R1-500-08BE/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TBP04R1-500-08BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TBP04R1-500-08BE/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(TSW-103-24-T-D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-103-24-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(TSW-103-24-T-D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-103-24-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE A4988)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A4988_STEPPER_MOTOR_DRIVER_CARRIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE A4988)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A4988_STEPPER_MOTOR_DRIVER_CARRIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE ARDUINO NANO)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1.1A Pin=J?-3
+Added Pin To Net: NetName=1.1A Pin=U?-12
+Added Net: Name=1.1A
+Added Pin To Net: NetName=1.1B Pin=J?-4
+Added Pin To Net: NetName=1.1B Pin=U?-11
+Added Net: Name=1.1B
+Added Pin To Net: NetName=1.2A Pin=J?-2
+Added Pin To Net: NetName=1.2A Pin=U?-13
+Added Net: Name=1.2A
+Added Pin To Net: NetName=1.2B Pin=J?-1
+Added Pin To Net: NetName=1.2B Pin=U?-14
+Added Net: Name=1.2B
+Added Pin To Net: NetName=2.1A Pin=J?-7
+Added Pin To Net: NetName=2.1A Pin=U?-12
+Added Net: Name=2.1A
+Added Pin To Net: NetName=2.1B Pin=J?-8
+Added Pin To Net: NetName=2.1B Pin=U?-11
+Added Net: Name=2.1B
+Added Pin To Net: NetName=2.2A Pin=J?-6
+Added Pin To Net: NetName=2.2A Pin=U?-13
+Added Net: Name=2.2A
+Added Pin To Net: NetName=2.2B Pin=J?-5
+Added Pin To Net: NetName=2.2B Pin=U?-14
+Added Net: Name=2.2B
+Added Pin To Net: NetName=5V Pin=J?-02
+Added Pin To Net: NetName=5V Pin=J?-02
+Added Pin To Net: NetName=5V Pin=J?-04
+Added Pin To Net: NetName=5V Pin=J?-04
+Added Pin To Net: NetName=5V Pin=J?-06
+Added Pin To Net: NetName=5V Pin=J?-06
+Added Pin To Net: NetName=5V Pin=U?-10
+Added Pin To Net: NetName=5V Pin=U?-10
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=U?-16
+Added Pin To Net: NetName=12V Pin=U?-16
+Added Net: Name=12V
+Added Pin To Net: NetName=DIR1 Pin=U?-8
+Added Pin To Net: NetName=DIR1 Pin=U?-8
+Added Net: Name=DIR1
+Added Pin To Net: NetName=DIR2 Pin=U?-8
+Added Pin To Net: NetName=DIR2 Pin=U?-9
+Added Net: Name=DIR2
+Added Pin To Net: NetName=EN Pin=U?-1
+Added Pin To Net: NetName=EN Pin=U?-1
+Added Pin To Net: NetName=EN Pin=U?-11
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-29
+Added Net: Name=GND
+Added Pin To Net: NetName=LASER Pin=U?-14
+Added Net: Name=LASER
+Added Pin To Net: NetName=MS1.1 Pin=J?-01
+Added Pin To Net: NetName=MS1.1 Pin=U?-2
+Added Net: Name=MS1.1
+Added Pin To Net: NetName=MS1.2 Pin=J?-03
+Added Pin To Net: NetName=MS1.2 Pin=U?-3
+Added Net: Name=MS1.2
+Added Pin To Net: NetName=MS1.3 Pin=J?-05
+Added Pin To Net: NetName=MS1.3 Pin=U?-4
+Added Net: Name=MS1.3
+Added Pin To Net: NetName=MS2.1 Pin=J?-01
+Added Pin To Net: NetName=MS2.1 Pin=U?-2
+Added Net: Name=MS2.1
+Added Pin To Net: NetName=MS2.2 Pin=J?-03
+Added Pin To Net: NetName=MS2.2 Pin=U?-3
+Added Net: Name=MS2.2
+Added Pin To Net: NetName=MS2.3 Pin=J?-05
+Added Pin To Net: NetName=MS2.3 Pin=U?-4
+Added Net: Name=MS2.3
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Pin To Net: NetName=NetU?_5 Pin=U?-6
+Added Net: Name=NetU?_5
+Add Net: Net with name "NetU?_5" already exists
+Added Pin To Net: NetName=STEP1 Pin=U?-5
+Added Pin To Net: NetName=STEP1 Pin=U?-7
+Added Net: Name=STEP1
+Added Pin To Net: NetName=STEP2 Pin=U?-6
+Added Pin To Net: NetName=STEP2 Pin=U?-7
+Added Net: Name=STEP2
+Added Pin To Net: NetName=SW1 Pin=U?-12
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=U?-13
+Added Net: Name=SW2
+Added Class: Name=DRIVER
+Added Class: Name=MCU
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
